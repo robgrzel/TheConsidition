@@ -232,7 +232,7 @@ int Map_Drawer::run_simulation() {
 				//int isPathEnd = refresh_path(true);
 				//if (isPathEnd) swap_start_goal();
 				
-				//Graf.bfs_from_to(p,pgoal,map::filter_noways, false);
+				Graf.bfs_from_to(p,pgoal,map::filter_noways, false);
 				if (1 < Graf.pathto.size()) {
 					movedir = 't';
 					auto pi = Graf.pathto[1];
