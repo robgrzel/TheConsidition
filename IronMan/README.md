@@ -25,10 +25,11 @@ Python:
 Cpp:
 - read data from files saved by python
 - render map in real time in terminal with ncurses  
-- represent map as bitmap with boolean values, 1 is passable point, 0 is blocked
-- skip cost of terrain, dynamics and powerups
-- djikstra flood fill algorithm for initial path search
-- recompute path at each step with djikstra algorithm
+- during path planning computation:
+    - represent map as bitmap with boolean values, 1 is passable point, 0 is blocked
+    - skip cost of terrain, dynamics and powerups
+    - use djikstra flood fill algorithm for initial path search
+    - recompute path at each step with djikstra algorithm
 
 
 # Todo:
@@ -38,11 +39,12 @@ Python:
 
 Cpp:
 - tcp socket client receiving data from python server
-- use djikstra path search for initial path finding only (with bitmap
-- include costs in map and dynamics of terrain (no longer bitmap))
-- split initial path at chunks with heurestic set as distance from start to end of chunk
-- at each chunk use A* at each point to find optimal path
-- include extra costs at A* 
+- during path planning computation:
+    - use djikstra path search for initial path finding only (with bitmap
+    - include costs in map and dynamics of terrain (no longer bitmap))
+    - split initial path at chunks with heurestic set as distance from start to end of chunk
+    - at each chunk use A* at each point to find optimal path
+    - include extra costs at A* 
 
 # Possible optimizations:
 - Use parallel djikstra algorithm with multiprocessing OpenMPI (nonblocking data transfer)
