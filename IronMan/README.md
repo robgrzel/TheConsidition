@@ -31,6 +31,8 @@ Cpp:
     - use djikstra flood fill algorithm for initial path search
     - recompute path at each step with djikstra algorithm
 
+[![Current Version](https://img.youtube.com/vi/7pq3lxR82CE/0.jpg)](https://youtu.be/7pq3lxR82CE?t=14)
+    
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pq3lxR82CE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     
