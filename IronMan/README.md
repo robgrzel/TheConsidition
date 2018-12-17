@@ -2,7 +2,7 @@
 
 Implemented with python and c++. Building c++ part do not require any extra libs beside ncurses and terminal with 256 colors. Python and c++ are not seamlessly integrated, will be meant to work as separate server and client with data transfer by tcp socket.
 
-As of now it is capable to show map with game, recompute optimal path at each player step and render player movement over this path. Usage is simple:
+As of now it is capable to show map with game, recompute optimal path at each player step and render player movement over this path. Usage is simple, require bash on linux or WSL bash on Windwos:
 
 ```bash
 
@@ -48,4 +48,13 @@ Cpp:
 # Possible optimizations:
 - Use parallel djikstra algorithm with multiprocessing OpenMPI (nonblocking data transfer)
 
+Time consumption:
+- trying to reinvent wheel with lidar simulation and path planning of masked map - few days (abandoned)
+- path planning algorithm implementation in Python and use with exsiting data - shortest, less than 1 hour
+- integration of above to C++ - few hours
+- implementation of map in ncrurses in C++ - few days
+- integration of path planning with ncurses map - few days, previous integration was changed
 
+Most time I have spend on integration, now I consider strongly to focus only on training myself at algorithms.
+
+Plus of this implementation of ncurses is that, I may use it easly to visualize other algoritmhs.
