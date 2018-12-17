@@ -1,0 +1,5 @@
+/opt/cmake/v3.11/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /mnt/e/W/TheConsidition/IronMan/TheConsidition
+opencv_videostab;opencv_video;opencv_ts;opencv_superres;opencv_stitching;opencv_photo;opencv_ocl;opencv_objdetect;opencv_ml;opencv_legacy;opencv_imgproc;opencv_highgui;opencv_gpu;opencv_flann;opencv_features2d;opencv_core;opencv_contrib;opencv_calib3d
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug

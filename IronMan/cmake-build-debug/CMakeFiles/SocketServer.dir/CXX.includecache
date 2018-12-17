@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/W/TheConsidition/IronMan/TheConsidition/CppTests/socket_server.cpp
+cstdlib
+-
+cstdio
+-
+cstring
+-
+unistd.h
+-
+netinet/in.h
+-
+sys/socket.h
+-
+functional
+-
+

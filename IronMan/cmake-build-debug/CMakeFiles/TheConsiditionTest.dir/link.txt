@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -DNDEBUG   CMakeFiles/TheConsiditionTest.dir/CppTests/mapdraw.test.cpp.o  -o TheConsiditionTest -lncurses 

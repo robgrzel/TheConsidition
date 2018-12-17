@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -DNDEBUG   CMakeFiles/TheConsidition.dir/Cpp/mapdraw.cpp.o CMakeFiles/TheConsidition.dir/Cpp/vector2d.cpp.o CMakeFiles/TheConsidition.dir/Cpp/grafs.cpp.o  -o TheConsidition -lncurses 

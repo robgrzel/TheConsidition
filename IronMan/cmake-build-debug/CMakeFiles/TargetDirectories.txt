@@ -1,0 +1,9 @@
+/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/CMakeFiles/OpenCvTest.dir
+/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/CMakeFiles/OpenCV_Skeletonize.dir
+/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/CMakeFiles/TCP_Transfer_Array.dir
+/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/CMakeFiles/TheConsiditionTest.dir
+/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/CMakeFiles/TheConsidition.dir
+/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/CMakeFiles/NcursesWindowTest.dir
+/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/CMakeFiles/NcursesWindowTest1.dir

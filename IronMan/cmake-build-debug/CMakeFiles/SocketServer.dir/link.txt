@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -DNDEBUG   CMakeFiles/SocketServer.dir/CppTests/socket_server.cpp.o  -o SocketServer -lncurses 

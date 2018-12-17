@@ -1,0 +1,72 @@
+start ironman with gameId : None[2018-12-06 10:08:24.763] : Attempting to end previous games if any. 
+[2018-12-06 10:08:25.319] : Created new game: 7c18847b-a718-451f-8280-a22e56957bbb 
+start ironman with gameId : 7c18847b-a718-451f-8280-a22e56957bbb[2018-12-06 10:08:25.548] : Joined game: 7c18847b-a718-451f-8280-a22e56957bbb 
+[2018-12-06 10:08:25.548] : Readying up! 
+[2018-12-06 10:08:25.548] : Readying up! 
+[2018-12-06 10:08:25.818] : Joined and readied! Solving... 
+[2018-12-06 10:08:25.819] : Getting game: 7c18847b-a718-451f-8280-a22e56957bbb 
+[2018-12-06 10:08:26.063] : Starting turn: 0 
+[2018-12-06 10:08:26.063] : {'xPos': 44, 'yPos': 92, 'status': 'idle', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 0, 'lastTimeActive': '2018-12-06T11:08:26.6445573+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 0, 'activePowerups': []} 
+[2018-12-06 10:08:26.063] : Stepped: n 
+[2018-12-06 10:08:26.063] : Attempting to step in direction: n 
+[2018-12-06 10:08:26.544] : Starting turn: 1 
+[2018-12-06 10:08:26.544] : {'xPos': 44, 'yPos': 91, 'status': 'running', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 1, 'lastTimeActive': '2018-12-06T11:08:27.4016196+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 1, 'activePowerups': []} 
+[2018-12-06 10:08:26.544] : Stepped: n 
+[2018-12-06 10:08:26.544] : Attempting to step in direction: n 
+[2018-12-06 10:08:27.068] : Starting turn: 2 
+[2018-12-06 10:08:27.070] : {'xPos': 44, 'yPos': 90, 'status': 'running', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 2, 'lastTimeActive': '2018-12-06T11:08:27.8716672+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 2, 'activePowerups': []} 
+[2018-12-06 10:08:27.070] : Stepped: w 
+[2018-12-06 10:08:27.070] : Attempting to step in direction: w 
+[2018-12-06 10:08:27.565] : Starting turn: 3 
+[2018-12-06 10:08:27.568] : {'xPos': 43, 'yPos': 90, 'status': 'running', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 3, 'lastTimeActive': '2018-12-06T11:08:28.4080894+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 3, 'activePowerups': []} 
+[2018-12-06 10:08:27.568] : Stepped: e 
+[2018-12-06 10:08:27.568] : Attempting to step in direction: e 
+[2018-12-06 10:08:28.036] : Starting turn: 4 
+[2018-12-06 10:08:28.038] : {'xPos': 44, 'yPos': 90, 'status': 'running', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 4, 'lastTimeActive': '2018-12-06T11:08:28.9057295+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 4, 'activePowerups': []} 
+[2018-12-06 10:08:28.038] : Stepped: e 
+[2018-12-06 10:08:28.038] : Attempting to step in direction: e 
+[2018-12-06 10:08:28.497] : Starting turn: 6 
+[2018-12-06 10:08:28.498] : {'xPos': 44, 'yPos': 90, 'status': 'idle', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 5, 'lastTimeActive': '2018-12-06T11:08:29.3758727+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 6, 'activePowerups': []} 
+[2018-12-06 10:08:28.498] : Stepped: s 
+[2018-12-06 10:08:28.498] : Attempting to step in direction: s 
+[2018-12-06 10:08:28.934] : Starting turn: 7 
+[2018-12-06 10:08:28.936] : {'xPos': 44, 'yPos': 91, 'status': 'running', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 7, 'lastTimeActive': '2018-12-06T11:08:29.8391133+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 7, 'activePowerups': []} 
+[2018-12-06 10:08:28.936] : Stepped: n 
+[2018-12-06 10:08:28.936] : Attempting to step in direction: n 
+[2018-12-06 10:08:29.362] : Starting turn: 8 
+[2018-12-06 10:08:29.363] : {'xPos': 44, 'yPos': 90, 'status': 'running', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 8, 'lastTimeActive': '2018-12-06T11:08:30.275857+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 8, 'activePowerups': []} 
+[2018-12-06 10:08:29.363] : Stepped: n 
+[2018-12-06 10:08:29.363] : Attempting to step in direction: n 
+[2018-12-06 10:08:29.776] : Starting turn: 10 
+[2018-12-06 10:08:29.777] : {'xPos': 44, 'yPos': 90, 'status': 'idle', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 9, 'lastTimeActive': '2018-12-06T11:08:30.6855575+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 10, 'activePowerups': []} 
+[2018-12-06 10:08:29.777] : Stepped: n 
+[2018-12-06 10:08:29.777] : Attempting to step in direction: n 
+[2018-12-06 10:08:30.345] : Starting turn: 12 
+[2018-12-06 10:08:30.346] : {'xPos': 44, 'yPos': 90, 'status': 'idle', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 11, 'lastTimeActive': '2018-12-06T11:08:31.1043736+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 12, 'activePowerups': []} 
+[2018-12-06 10:08:30.346] : Stepped: n 
+[2018-12-06 10:08:30.346] : Attempting to step in direction: n 
+[2018-12-06 10:08:30.762] : Starting turn: 14 
+[2018-12-06 10:08:30.764] : {'xPos': 44, 'yPos': 90, 'status': 'idle', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 13, 'lastTimeActive': '2018-12-06T11:08:31.6714487+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 14, 'activePowerups': []} 
+[2018-12-06 10:08:30.764] : Stepped: s 
+[2018-12-06 10:08:30.764] : Attempting to step in direction: s 
+[2018-12-06 10:08:31.271] : Starting turn: 15 
+[2018-12-06 10:08:31.272] : {'xPos': 44, 'yPos': 91, 'status': 'running', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 15, 'lastTimeActive': '2018-12-06T11:08:32.0986979+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 15, 'activePowerups': []} 
+[2018-12-06 10:08:31.272] : Stepped: e 
+[2018-12-06 10:08:31.272] : Attempting to step in direction: e 
+[2018-12-06 10:08:31.724] : Starting turn: 17 
+[2018-12-06 10:08:31.725] : {'xPos': 44, 'yPos': 91, 'status': 'idle', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 16, 'lastTimeActive': '2018-12-06T11:08:32.6158237+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 17, 'activePowerups': []} 
+[2018-12-06 10:08:31.725] : Stepped: s 
+[2018-12-06 10:08:31.725] : Attempting to step in direction: s 
+[2018-12-06 10:08:32.113] : Starting turn: 18 
+[2018-12-06 10:08:32.114] : {'xPos': 44, 'yPos': 92, 'status': 'idle', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 18, 'lastTimeActive': '2018-12-06T11:08:33.0549583+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 18, 'activePowerups': []} 
+[2018-12-06 10:08:32.114] : Stepped: e 
+[2018-12-06 10:08:32.114] : Attempting to step in direction: e 
+[2018-12-06 10:08:32.586] : Starting turn: 20 
+[2018-12-06 10:08:32.587] : {'xPos': 44, 'yPos': 92, 'status': 'idle', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 19, 'lastTimeActive': '2018-12-06T11:08:33.4474858+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 20, 'activePowerups': []} 
+[2018-12-06 10:08:32.587] : Stepped: s 
+[2018-12-06 10:08:32.587] : Attempting to step in direction: s 
+[2018-12-06 10:08:32.999] : Starting turn: 21 
+[2018-12-06 10:08:33.000] : {'xPos': 44, 'yPos': 93, 'status': 'running', 'statusDuration': 0, 'stamina': 100, 'lastTurnPlayed': 21, 'lastTimeActive': '2018-12-06T11:08:33.9104105+01:00', 'powerupInventory': [], 'name': 'RALF-IT', 'apiKey': '326dcc2e-6ccc-457a-bd12-596eadc87a64', 'playedTurns': 21, 'activePowerups': []} 
+[2018-12-06 10:08:33.000] : Stepped: e 
+[2018-12-06 10:08:33.001] : Attempting to step in direction: e 
+[2018-12-06 10:08:33.433] : Starting turn: 23 

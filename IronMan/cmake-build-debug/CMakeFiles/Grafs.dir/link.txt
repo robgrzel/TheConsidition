@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -DNDEBUG   CMakeFiles/Grafs.dir/Cpp/grafs.cpp.o  -o Grafs -lncurses 

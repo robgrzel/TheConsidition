@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -DNDEBUG   CMakeFiles/NcursesWindowTest.dir/CppTests/ncurses_window.cpp.o  -o NcursesWindowTest -lncurses 

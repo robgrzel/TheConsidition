@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OpenCvTest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\share\;CMake Files\..\..\..\..\..\..\usr\share\OpenCV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OpenCvTest">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/OpenCvTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 OpenCvTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OpenCvTest/fast">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/OpenCvTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 OpenCvTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OpenCV_Skeletonize">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/OpenCV_Skeletonize" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 OpenCV_Skeletonize"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OpenCV_Skeletonize/fast">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/OpenCV_Skeletonize" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 OpenCV_Skeletonize/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TCP_Transfer_Array">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/TCP_Transfer_Array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCP_Transfer_Array"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TCP_Transfer_Array/fast">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/TCP_Transfer_Array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCP_Transfer_Array/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TheConsiditionTest">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/TheConsiditionTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 TheConsiditionTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TheConsiditionTest/fast">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/TheConsiditionTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 TheConsiditionTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TheConsidition">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/TheConsidition" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 TheConsidition"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TheConsidition/fast">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/TheConsidition" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 TheConsidition/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NcursesWindowTest">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/NcursesWindowTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 NcursesWindowTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NcursesWindowTest/fast">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/NcursesWindowTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 NcursesWindowTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NcursesWindowTest1">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/NcursesWindowTest1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 NcursesWindowTest1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NcursesWindowTest1/fast">
+				<Option output="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/NcursesWindowTest1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/opencv"/>
+					<Add directory="/usr/include/opencv2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 NcursesWindowTest1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/e/W/TheConsidition/IronMan/TheConsidition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/Cpp/grafs.cpp">
+			<Option target="TheConsidition"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/Cpp/grafs.hpp">
+			<Option target="TheConsidition"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/Cpp/mapdraw.cpp">
+			<Option target="TheConsidition"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/Cpp/mapdraw.hpp">
+			<Option target="TheConsidition"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/Cpp/vector2d.cpp">
+			<Option target="TheConsidition"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/Cpp/vector2d.hpp">
+			<Option target="TheConsidition"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/CppTests/astar_test.cpp">
+			<Option target="OpenCvTest"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/CppTests/draw_windows_2.cpp">
+			<Option target="OpenCvTest"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/CppTests/fast_hash.cpp">
+			<Option target="OpenCV_Skeletonize"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/CppTests/fast_hash.hpp">
+			<Option target="OpenCV_Skeletonize"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/CppTests/mapdraw.test.cpp">
+			<Option target="TheConsiditionTest"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/CppTests/ncurses_window.cpp">
+			<Option target="NcursesWindowTest"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/CppTests/ncurses_window_1.cpp">
+			<Option target="OpenCvTest"/>
+			<Option target="NcursesWindowTest1"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/CppTests/opencv.test.cpp">
+			<Option target="OpenCvTest"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/CppTests/tcp_transfer_array.cpp">
+			<Option target="TCP_Transfer_Array"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/../../../../../../usr/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/../../../../../../usr/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/../../../../../../usr/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/mnt/e/W/TheConsidition/IronMan/TheConsidition/../../../../../../usr/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\OpenCV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
