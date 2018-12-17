@@ -21,7 +21,6 @@ Python:
 - using API to scrap game status (map terrain and dynamics)
 - parse data according to some keymap
 - save it to files
-+ djiksta flood fill algorithm for path planning
 
 Cpp:
 - read data from files saved by python
