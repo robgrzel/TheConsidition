@@ -40,8 +40,8 @@ Python:
 Cpp:
 - tcp socket client receiving data from python server
 - during path planning computation:
-    - use djikstra path search for initial path finding only (with bitmap
-    - include costs in map and dynamics of terrain (no longer bitmap))
+    - use djikstra path search for initial path finding only (with bitmap)
+    - include costs in map and dynamics of terrain (no longer bitmap)
     - split initial path at chunks with heurestic set as distance from start to end of chunk
     - at each chunk use A* at each point to find optimal path
     - include extra costs at A* 
@@ -49,7 +49,7 @@ Cpp:
 # Possible optimizations:
 - Use parallel djikstra algorithm with multiprocessing OpenMPI (nonblocking data transfer)
 
-Time consumption:
+# Time consumption:
 - trying to reinvent wheel with lidar simulation and path planning of masked map - few days (abandoned)
 - path planning algorithm implementation in Python and use with exsiting data - shortest, less than 1 hour
 - integration of above to C++ - few hours
